@@ -10,3 +10,11 @@
 ### 推荐系统展示
 
 [就业推荐系统](https://www.fiang.fun)
+
+### 系统架构图
+
+![image](https://github.com/854771076/Spark_Recommendation_system/assets/77500606/7883f349-9a72-4343-ad60-d92a540d3555)
+
+### 数仓架构
+
+![image](https://github.com/854771076/Spark_Recommendation_system/assets/77500606/7c0e7094-04fb-4f6c-b9c6-797e069d4364)
