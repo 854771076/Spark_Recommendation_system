@@ -11,6 +11,8 @@
 
 [就业推荐系统](https://www.fiang.fun)
 
+[旅游景点推荐系统](http://www.fiang.fun:8001/)
+
 ### 系统架构图
 
 ![image](https://github.com/854771076/Spark_Recommendation_system/assets/77500606/7883f349-9a72-4343-ad60-d92a540d3555)
